@@ -66,7 +66,7 @@ export default function Login() {
         </div>
         <div style={{ marginTop: "20px", marginLeft: "-12px" }}>
           <CustomButton
-            text="Login"
+            text="Login :)"
             onClick={handleLogin}
             variant="contained"
             color="primary"
